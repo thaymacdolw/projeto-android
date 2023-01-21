@@ -205,3 +205,10 @@ footer a:hover {
     text-decoration: underline;
     color: var(--cor1);
 }
+
+@media screen and (min-width: 821px) {
+    nav {
+        display: block;
+        text-align: left;
+    }
+}
