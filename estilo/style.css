@@ -206,6 +206,8 @@ footer a:hover {
     color: var(--cor1);
 }
 
+/* Fazer isso para as diferentes telas, estudar */
+
 @media screen and (min-width: 821px) {
     nav {
         display: block;
