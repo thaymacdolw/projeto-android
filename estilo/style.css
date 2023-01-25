@@ -212,8 +212,11 @@ footer a:hover {
 @media screen and (max-width: 450px) {
     nav > a {
         font-size: 0.83em;
-        text-align: center;
-        margin: 0 auto;
+        display: inline-block;
+        
+        
+        
+       
         
     }      
 }
