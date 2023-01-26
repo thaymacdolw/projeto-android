@@ -210,13 +210,8 @@ footer a:hover {
 /* Fazer isso para as diferentes telas, estudar */
 
 @media screen and (max-width: 450px) {
-    nav > a {
-        font-size: 0.83em;
-        display: inline-block;
-        
-        
-        
-       
-        
+    nav  {
+        font-size: 0.83rem;
+        text-align: center;
     }      
 }
